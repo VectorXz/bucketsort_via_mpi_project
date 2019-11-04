@@ -1,0 +1,6 @@
+Parallel Bucketsort via MPI by Group 6 SEC1
+
+Saranphon Phaithoon 6088114
+Patiphol Pussawong 6088136
+Supakarn Wongnil 6088137
+Komolmarch Treechaiworapong 6088213
